@@ -1,0 +1,82 @@
+<h1>There are {{num}} spots to visit in {{cityname}}</h1>
+<!-- <form action="/sites" method="POST">
+​​    Your destination city: <input type="text" name="des" /> <br/>
+    <input type="submit" value="Look up the Weather"/>
+</form> -->
+{% if E==False %}
+    <!-- <form action="/weather" method="POST">
+        <input type="submit" value="Weather"/>
+    </form>
+    <form action="/restaurants" method="POST">
+        <input type="submit" value="Restaurants"/>
+    </form>
+    <form action="/booking" method="POST">
+        <input type="submit" value="Booking Flight"/>
+    </form> -->
+    <a href="/restaurants">Restaurants</a>
+    <a href="/booking">Flights</a>
+    <a href="/weather">Weather</a>
+    <form action="/sites/sortby" method="POST">
+        Sort By:<br/>
+        <input type="radio" name="sortorder" value="DESC"/>Price: High to Low<br/>
+        <input type="radio" name="sortorder" value="ASC"/>Price: Low to High<br/>
+        <input type="submit" name="update" value="Update"/>
+    </form>
+    <table border=1>
+        <tr>
+            <td  width="10%">Site Name</td>
+            <td>Price</td>
+            <td>Unit</td>
+            <td>Description</td>
+        </tr>
+        {% for i in siteslist %}
+        <tr>
+            {% for j in i %}
+            <td>{{j}}</td>
+            {% endfor %}
+        </tr>
+        {% endfor %}
+    </table>
+{% else %}
+    <h2>We don't support this city<h2>
+{% endif %}
+
+
+
+<!-- <link rel="stylesheet" href="/static/style.css">
+
+<h1> Michigan Men's Football </h1>
+
+​​<form action="/bball" method="POST">
+​​    Sort By:<br/>
+​​    <input type="radio" name="sortby" value="year"/> Year <br/>
+​​    <input type="radio" name="sortby" value="wins"/> Wins <br/>
+​​    <input type="radio" name="sortby" value="pct"/> Win Percentage <br/>
+​​    <br/>
+​​    Sort Order:<br/>
+​​    <input type="radio" name="sortorder" value="asc"/> Ascending <br/>
+​​    <input type="radio" name="sortorder" value="desc"/> Descending <br/>
+​​    <br/>
+​​    <input type="submit" name="update" value="Update"/>
+​​    <br/>
+​​    <br/>
+​​</form>
+
+<table border=1>
+    <tr>
+        <th>Year</th>
+        <th>Wins</th>
+        <th>Losses</th>
+        <th>Tie</th>
+        <th>Win %</th>
+    </tr>
+{% for s in seasons %}
+    <tr>
+        <td>{{s[1]}}</td>
+        <td>{{s[3]}}</td>
+        <td>{{s[4]}}</td>
+        <td>{{s[5]}}</td>
+        <td>{{s[6]}}</td>
+    </tr>
+{% endfor %}
+</table> -->

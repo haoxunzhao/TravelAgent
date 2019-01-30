@@ -1,0 +1,25 @@
+<h1>Flights from {{depcity}} to {{des}}</h1>
+{% if flightlist|length !=0 %}
+    <table border=1>
+        <tr>
+            <td>Flight Number</td>
+            <td>Departure Airport Code</td>
+            <td>Arrival Airport Code</td>
+            <td>Stops</td>
+            <td>Departure Terminal</td>
+            <td>Arrival Terminal</td>
+            <td>Departure Time</td>
+            <td>Arrival Time</td>
+        </tr>
+        {% for i in flightlist %}
+        <tr>
+            {% for j in i %}
+
+            <td>{{j}}</td>
+            {% endfor %}
+        </tr>
+        {% endfor %}
+    </table>
+{% else %}
+    <h2>No data of flights from {{depcity}} to {{des}}<h2>
+{% endif %}

@@ -1,0 +1,78 @@
+<h1>Welcome to the Travel Agency!</h1>
+<h2>Where do you want to go</h2>
+
+<form action="/sites" method="POST">
+​​    Your destination city: <input type="text" name="des"/> <br/>
+    <input type="submit" value="submit"/>
+</form>
+
+<h2>Please select one of the cities below</h2>
+<h3>There are {{num}} cities</h3>
+​
+<table border=1>
+
+{% for s in citylist %}
+    <tr>
+        {% for j in s %}
+        <td>{{j[0]}}({{j[1]}})</td>
+        {% endfor %}
+    </tr>
+{% endfor %}
+
+</table>
+​​
+​
+<!-- {% if firstname == '' %}
+​​  <h2> What is your name? </h2>
+​​{% else %}
+​​<h2> Hello {{firstname}} {{lastname}} </h2>
+​​Would you like to change your name? <br/>
+​​{% endif %}
+​​
+​​<form action="/hello" method="POST">
+​​
+​​    First Name: <input type="text" name="firstname"/> <br/>
+​​    Last Name: <input type="text" name="lastname"/> <br/>
+​​
+​​    <input type="submit" value="submit"/>
+​​
+​​</form> -->
+
+
+<!-- <link rel="stylesheet" href="/static/style.css">
+
+<h1> Michigan Men's Football </h1>
+
+​​<form action="/bball" method="POST">
+​​    Sort By:<br/>
+​​    <input type="radio" name="sortby" value="year"/> Year <br/>
+​​    <input type="radio" name="sortby" value="wins"/> Wins <br/>
+​​    <input type="radio" name="sortby" value="pct"/> Win Percentage <br/>
+​​    <br/>
+​​    Sort Order:<br/>
+​​    <input type="radio" name="sortorder" value="asc"/> Ascending <br/>
+​​    <input type="radio" name="sortorder" value="desc"/> Descending <br/>
+​​    <br/>
+​​    <input type="submit" name="update" value="Update"/>
+​​    <br/>
+​​    <br/>
+​​</form>
+
+<table border=1>
+    <tr>
+        <th>Year</th>
+        <th>Wins</th>
+        <th>Losses</th>
+        <th>Tie</th>
+        <th>Win %</th>
+    </tr>
+{% for s in seasons %}
+    <tr>
+        <td>{{s[1]}}</td>
+        <td>{{s[3]}}</td>
+        <td>{{s[4]}}</td>
+        <td>{{s[5]}}</td>
+        <td>{{s[6]}}</td>
+    </tr>
+{% endfor %}
+</table> -->

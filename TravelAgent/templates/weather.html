@@ -1,0 +1,21 @@
+<h1>Weather in {{des}}</h1>
+<table border=1>
+    <tr>
+        <td>Time period</td>
+        <td>Weather</td>
+        <td>Temperature(℉)</td>
+        <td>Temperature(℃)</td>
+        <td>Wind speed(m/s)</td>
+        <td>Humidity(%)</td>
+        <td>Cloudiness(%)</td>
+        <td>Pressure(hPa)</td>
+    </tr>
+    {% for i in wethlist %}
+    <tr>
+        {% for j in i %}
+
+        <td>{{i[j]}}</td>
+        {% endfor %}
+    </tr>
+    {% endfor %}
+</table>

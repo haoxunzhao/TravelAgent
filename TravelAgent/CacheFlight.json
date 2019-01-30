@@ -1,0 +1,1689 @@
+{
+    "Chicago,Paris,06,02,2018,": [
+        {
+            "flnum": "AA150",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "CDG",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "2A",
+            "departureTime": "2018-06-02T19:00:00.000",
+            "arrivalTime": "2018-06-03T10:05:00.000"
+        },
+        {
+            "flnum": "LY8021",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "CDG",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "2A",
+            "departureTime": "2018-06-02T19:00:00.000",
+            "arrivalTime": "2018-06-03T10:05:00.000"
+        },
+        {
+            "flnum": "BA1602",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "CDG",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "2A",
+            "departureTime": "2018-06-02T19:00:00.000",
+            "arrivalTime": "2018-06-03T10:05:00.000"
+        },
+        {
+            "flnum": "IB9734",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "CDG",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "2A",
+            "departureTime": "2018-06-02T19:00:00.000",
+            "arrivalTime": "2018-06-03T10:05:00.000"
+        },
+        {
+            "flnum": "RJ7030",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "CDG",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "2A",
+            "departureTime": "2018-06-02T19:00:00.000",
+            "arrivalTime": "2018-06-03T10:05:00.000"
+        },
+        {
+            "flnum": "AY5776",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "CDG",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "2A",
+            "departureTime": "2018-06-02T19:00:00.000",
+            "arrivalTime": "2018-06-03T10:05:00.000"
+        },
+        {
+            "flnum": "LH9335",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "CDG",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-02T18:25:00.000",
+            "arrivalTime": "2018-06-03T09:30:00.000"
+        },
+        {
+            "flnum": "UA987",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "CDG",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-02T18:25:00.000",
+            "arrivalTime": "2018-06-03T09:30:00.000"
+        },
+        {
+            "flnum": "AC5946",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "CDG",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-02T18:25:00.000",
+            "arrivalTime": "2018-06-03T09:30:00.000"
+        },
+        {
+            "flnum": "LX3023",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "CDG",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-02T18:25:00.000",
+            "arrivalTime": "2018-06-03T09:30:00.000"
+        },
+        {
+            "flnum": "SN9107",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "CDG",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-02T18:25:00.000",
+            "arrivalTime": "2018-06-03T09:30:00.000"
+        },
+        {
+            "flnum": "AF137",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "CDG",
+            "stops": 0,
+            "departureTerminal": "5",
+            "arrivalTerminal": "2E",
+            "departureTime": "2018-06-02T17:20:00.000",
+            "arrivalTime": "2018-06-03T08:45:00.000"
+        },
+        {
+            "flnum": "9W4944",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "CDG",
+            "stops": 0,
+            "departureTerminal": "5",
+            "arrivalTerminal": "2E",
+            "departureTime": "2018-06-02T17:20:00.000",
+            "arrivalTime": "2018-06-03T08:45:00.000"
+        },
+        {
+            "flnum": "KL2387",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "CDG",
+            "stops": 0,
+            "departureTerminal": "5",
+            "arrivalTerminal": "2E",
+            "departureTime": "2018-06-02T17:20:00.000",
+            "arrivalTime": "2018-06-03T08:45:00.000"
+        },
+        {
+            "flnum": "DL8417",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "CDG",
+            "stops": 0,
+            "departureTerminal": "5",
+            "arrivalTerminal": "2E",
+            "departureTime": "2018-06-02T17:20:00.000",
+            "arrivalTime": "2018-06-03T08:45:00.000"
+        }
+    ],
+    "Chicago,Paris,06,03,2018,": [
+        {
+            "flnum": "AA150",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "CDG",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "2A",
+            "departureTime": "2018-06-03T19:00:00.000",
+            "arrivalTime": "2018-06-04T10:05:00.000"
+        },
+        {
+            "flnum": "LY8021",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "CDG",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "2A",
+            "departureTime": "2018-06-03T19:00:00.000",
+            "arrivalTime": "2018-06-04T10:05:00.000"
+        },
+        {
+            "flnum": "BA1602",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "CDG",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "2A",
+            "departureTime": "2018-06-03T19:00:00.000",
+            "arrivalTime": "2018-06-04T10:05:00.000"
+        },
+        {
+            "flnum": "IB9734",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "CDG",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "2A",
+            "departureTime": "2018-06-03T19:00:00.000",
+            "arrivalTime": "2018-06-04T10:05:00.000"
+        },
+        {
+            "flnum": "RJ7030",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "CDG",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "2A",
+            "departureTime": "2018-06-03T19:00:00.000",
+            "arrivalTime": "2018-06-04T10:05:00.000"
+        },
+        {
+            "flnum": "AY5776",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "CDG",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "2A",
+            "departureTime": "2018-06-03T19:00:00.000",
+            "arrivalTime": "2018-06-04T10:05:00.000"
+        },
+        {
+            "flnum": "LH9335",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "CDG",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-03T18:25:00.000",
+            "arrivalTime": "2018-06-04T09:30:00.000"
+        },
+        {
+            "flnum": "UA987",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "CDG",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-03T18:25:00.000",
+            "arrivalTime": "2018-06-04T09:30:00.000"
+        },
+        {
+            "flnum": "AC5946",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "CDG",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-03T18:25:00.000",
+            "arrivalTime": "2018-06-04T09:30:00.000"
+        },
+        {
+            "flnum": "LX3023",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "CDG",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-03T18:25:00.000",
+            "arrivalTime": "2018-06-04T09:30:00.000"
+        },
+        {
+            "flnum": "SN9107",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "CDG",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-03T18:25:00.000",
+            "arrivalTime": "2018-06-04T09:30:00.000"
+        },
+        {
+            "flnum": "AF137",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "CDG",
+            "stops": 0,
+            "departureTerminal": "5",
+            "arrivalTerminal": "2E",
+            "departureTime": "2018-06-03T17:20:00.000",
+            "arrivalTime": "2018-06-04T08:45:00.000"
+        },
+        {
+            "flnum": "9W4944",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "CDG",
+            "stops": 0,
+            "departureTerminal": "5",
+            "arrivalTerminal": "2E",
+            "departureTime": "2018-06-03T17:20:00.000",
+            "arrivalTime": "2018-06-04T08:45:00.000"
+        },
+        {
+            "flnum": "KL2387",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "CDG",
+            "stops": 0,
+            "departureTerminal": "5",
+            "arrivalTerminal": "2E",
+            "departureTime": "2018-06-03T17:20:00.000",
+            "arrivalTime": "2018-06-04T08:45:00.000"
+        },
+        {
+            "flnum": "DL8417",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "CDG",
+            "stops": 0,
+            "departureTerminal": "5",
+            "arrivalTerminal": "2E",
+            "departureTime": "2018-06-03T17:20:00.000",
+            "arrivalTime": "2018-06-04T08:45:00.000"
+        }
+    ],
+    "Chicago,Malta,06,02,2018,": [],
+    "Chicago,Toronto,06,02,2018,": [
+        {
+            "flnum": "AA3765",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T15:00:00.000",
+            "arrivalTime": "2018-06-02T17:42:00.000"
+        },
+        {
+            "flnum": "AS4513",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T15:00:00.000",
+            "arrivalTime": "2018-06-02T17:42:00.000"
+        },
+        {
+            "flnum": "QF3305",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T15:00:00.000",
+            "arrivalTime": "2018-06-02T17:42:00.000"
+        },
+        {
+            "flnum": "AC514",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "2",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-02T19:35:00.000",
+            "arrivalTime": "2018-06-02T22:08:00.000"
+        },
+        {
+            "flnum": "AA3986",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T08:30:00.000",
+            "arrivalTime": "2018-06-02T11:04:00.000"
+        },
+        {
+            "flnum": "AS4670",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T08:30:00.000",
+            "arrivalTime": "2018-06-02T11:04:00.000"
+        },
+        {
+            "flnum": "QF3313",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T08:30:00.000",
+            "arrivalTime": "2018-06-02T11:04:00.000"
+        },
+        {
+            "flnum": "AA3364",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T11:50:00.000",
+            "arrivalTime": "2018-06-02T14:33:00.000"
+        },
+        {
+            "flnum": "QF3303",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T11:50:00.000",
+            "arrivalTime": "2018-06-02T14:33:00.000"
+        },
+        {
+            "flnum": "JL7450",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T11:50:00.000",
+            "arrivalTime": "2018-06-02T14:33:00.000"
+        },
+        {
+            "flnum": "AS4184",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T11:50:00.000",
+            "arrivalTime": "2018-06-02T14:33:00.000"
+        },
+        {
+            "flnum": "UA5566",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "2",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-02T07:45:00.000",
+            "arrivalTime": "2018-06-02T10:17:00.000"
+        },
+        {
+            "flnum": "OZ6468",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "2",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-02T07:45:00.000",
+            "arrivalTime": "2018-06-02T10:17:00.000"
+        },
+        {
+            "flnum": "AC5212",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "2",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-02T07:45:00.000",
+            "arrivalTime": "2018-06-02T10:17:00.000"
+        },
+        {
+            "flnum": "UA843",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-02T17:52:00.000",
+            "arrivalTime": "2018-06-02T20:30:00.000"
+        },
+        {
+            "flnum": "AC4407",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-02T17:52:00.000",
+            "arrivalTime": "2018-06-02T20:30:00.000"
+        },
+        {
+            "flnum": "EI6436",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-02T17:52:00.000",
+            "arrivalTime": "2018-06-02T20:30:00.000"
+        },
+        {
+            "flnum": "NH7014",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-02T17:52:00.000",
+            "arrivalTime": "2018-06-02T20:30:00.000"
+        },
+        {
+            "flnum": "UA391",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-02T21:00:00.000",
+            "arrivalTime": "2018-06-02T23:40:00.000"
+        },
+        {
+            "flnum": "NH7382",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-02T21:00:00.000",
+            "arrivalTime": "2018-06-02T23:40:00.000"
+        },
+        {
+            "flnum": "EI6438",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-02T21:00:00.000",
+            "arrivalTime": "2018-06-02T23:40:00.000"
+        },
+        {
+            "flnum": "AC4899",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-02T21:00:00.000",
+            "arrivalTime": "2018-06-02T23:40:00.000"
+        },
+        {
+            "flnum": "OZ6366",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-02T21:00:00.000",
+            "arrivalTime": "2018-06-02T23:40:00.000"
+        },
+        {
+            "flnum": "UA228",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-02T14:01:00.000",
+            "arrivalTime": "2018-06-02T16:47:00.000"
+        },
+        {
+            "flnum": "NH7806",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-02T14:01:00.000",
+            "arrivalTime": "2018-06-02T16:47:00.000"
+        },
+        {
+            "flnum": "AC5014",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-02T14:01:00.000",
+            "arrivalTime": "2018-06-02T16:47:00.000"
+        },
+        {
+            "flnum": "AA3189",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T16:35:00.000",
+            "arrivalTime": "2018-06-02T19:16:00.000"
+        },
+        {
+            "flnum": "BA5478",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T16:35:00.000",
+            "arrivalTime": "2018-06-02T19:16:00.000"
+        },
+        {
+            "flnum": "AS4021",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T16:35:00.000",
+            "arrivalTime": "2018-06-02T19:16:00.000"
+        },
+        {
+            "flnum": "QF3271",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T16:35:00.000",
+            "arrivalTime": "2018-06-02T19:16:00.000"
+        },
+        {
+            "flnum": "IB4106",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T16:35:00.000",
+            "arrivalTime": "2018-06-02T19:16:00.000"
+        },
+        {
+            "flnum": "AA4122",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T18:40:00.000",
+            "arrivalTime": "2018-06-02T21:28:00.000"
+        },
+        {
+            "flnum": "QF3273",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T18:40:00.000",
+            "arrivalTime": "2018-06-02T21:28:00.000"
+        },
+        {
+            "flnum": "IB7044",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T18:40:00.000",
+            "arrivalTime": "2018-06-02T21:28:00.000"
+        },
+        {
+            "flnum": "RJ7588",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T18:40:00.000",
+            "arrivalTime": "2018-06-02T21:28:00.000"
+        },
+        {
+            "flnum": "AS4147",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T18:40:00.000",
+            "arrivalTime": "2018-06-02T21:28:00.000"
+        },
+        {
+            "flnum": "AY4074",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T18:40:00.000",
+            "arrivalTime": "2018-06-02T21:28:00.000"
+        },
+        {
+            "flnum": "UA4301",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "2",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-02T11:50:00.000",
+            "arrivalTime": "2018-06-02T14:26:00.000"
+        },
+        {
+            "flnum": "UA4608",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-02T08:55:00.000",
+            "arrivalTime": "2018-06-02T11:36:00.000"
+        },
+        {
+            "flnum": "AC500",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "2",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-02T06:10:00.000",
+            "arrivalTime": "2018-06-02T08:46:00.000"
+        },
+        {
+            "flnum": "AC502",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "2",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-02T08:05:00.000",
+            "arrivalTime": "2018-06-02T10:41:00.000"
+        },
+        {
+            "flnum": "UA8080",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "2",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-02T08:05:00.000",
+            "arrivalTime": "2018-06-02T10:41:00.000"
+        },
+        {
+            "flnum": "AC504",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "2",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-02T10:10:00.000",
+            "arrivalTime": "2018-06-02T12:46:00.000"
+        },
+        {
+            "flnum": "AC506",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "2",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-02T12:20:00.000",
+            "arrivalTime": "2018-06-02T14:56:00.000"
+        },
+        {
+            "flnum": "AC508",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "2",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-02T14:20:00.000",
+            "arrivalTime": "2018-06-02T16:56:00.000"
+        },
+        {
+            "flnum": "AC510",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "2",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-02T17:05:00.000",
+            "arrivalTime": "2018-06-02T19:41:00.000"
+        },
+        {
+            "flnum": "UA8300",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "2",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-02T17:05:00.000",
+            "arrivalTime": "2018-06-02T19:41:00.000"
+        },
+        {
+            "flnum": "AC512",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "2",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-02T18:00:00.000",
+            "arrivalTime": "2018-06-02T20:36:00.000"
+        },
+        {
+            "flnum": "AC4986",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "2",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-02T11:50:00.000",
+            "arrivalTime": "2018-06-02T14:26:00.000"
+        },
+        {
+            "flnum": "NH7224",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "2",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-02T11:50:00.000",
+            "arrivalTime": "2018-06-02T14:26:00.000"
+        },
+        {
+            "flnum": "AC4994",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "YYZ",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-02T08:55:00.000",
+            "arrivalTime": "2018-06-02T11:36:00.000"
+        }
+    ],
+    "Chicago,Tbilisi,06,02,2018,": [],
+    "Chicago,London,06,02,2018,": [
+        {
+            "flnum": "DI*7152",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LGW",
+            "stops": 0,
+            "departureTerminal": "5",
+            "arrivalTerminal": "S",
+            "departureTime": "2018-06-02T21:40:00.000",
+            "arrivalTime": "2018-06-03T11:25:00.000"
+        },
+        {
+            "flnum": "AA90",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T09:00:00.000",
+            "arrivalTime": "2018-06-02T22:45:00.000"
+        },
+        {
+            "flnum": "IB4212",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T09:00:00.000",
+            "arrivalTime": "2018-06-02T22:45:00.000"
+        },
+        {
+            "flnum": "LY8047",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T09:00:00.000",
+            "arrivalTime": "2018-06-02T22:45:00.000"
+        },
+        {
+            "flnum": "AY5752",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T09:00:00.000",
+            "arrivalTime": "2018-06-02T22:45:00.000"
+        },
+        {
+            "flnum": "BA1541",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T09:00:00.000",
+            "arrivalTime": "2018-06-02T22:45:00.000"
+        },
+        {
+            "flnum": "AA98",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T22:10:00.000",
+            "arrivalTime": "2018-06-03T12:05:00.000"
+        },
+        {
+            "flnum": "GF4331",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T22:10:00.000",
+            "arrivalTime": "2018-06-03T12:05:00.000"
+        },
+        {
+            "flnum": "BA1601",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T22:10:00.000",
+            "arrivalTime": "2018-06-03T12:05:00.000"
+        },
+        {
+            "flnum": "RJ7081",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T22:10:00.000",
+            "arrivalTime": "2018-06-03T12:05:00.000"
+        },
+        {
+            "flnum": "MH9490",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T22:10:00.000",
+            "arrivalTime": "2018-06-03T12:05:00.000"
+        },
+        {
+            "flnum": "LY8008",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T22:10:00.000",
+            "arrivalTime": "2018-06-03T12:05:00.000"
+        },
+        {
+            "flnum": "IB9704",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T22:10:00.000",
+            "arrivalTime": "2018-06-03T12:05:00.000"
+        },
+        {
+            "flnum": "AY5748",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T22:10:00.000",
+            "arrivalTime": "2018-06-03T12:05:00.000"
+        },
+        {
+            "flnum": "UA931",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "2",
+            "departureTime": "2018-06-02T18:25:00.000",
+            "arrivalTime": "2018-06-03T08:30:00.000"
+        },
+        {
+            "flnum": "LX3041",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "2",
+            "departureTime": "2018-06-02T18:25:00.000",
+            "arrivalTime": "2018-06-03T08:30:00.000"
+        },
+        {
+            "flnum": "OS7852",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "2",
+            "departureTime": "2018-06-02T18:25:00.000",
+            "arrivalTime": "2018-06-03T08:30:00.000"
+        },
+        {
+            "flnum": "LH9349",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "2",
+            "departureTime": "2018-06-02T18:25:00.000",
+            "arrivalTime": "2018-06-03T08:30:00.000"
+        },
+        {
+            "flnum": "SN9086",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "2",
+            "departureTime": "2018-06-02T18:25:00.000",
+            "arrivalTime": "2018-06-03T08:30:00.000"
+        },
+        {
+            "flnum": "AC5364",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "2",
+            "departureTime": "2018-06-02T18:25:00.000",
+            "arrivalTime": "2018-06-03T08:30:00.000"
+        },
+        {
+            "flnum": "UA958",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "2",
+            "departureTime": "2018-06-02T16:00:00.000",
+            "arrivalTime": "2018-06-03T05:55:00.000"
+        },
+        {
+            "flnum": "OS7850",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "2",
+            "departureTime": "2018-06-02T16:00:00.000",
+            "arrivalTime": "2018-06-03T05:55:00.000"
+        },
+        {
+            "flnum": "LH9357",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "2",
+            "departureTime": "2018-06-02T16:00:00.000",
+            "arrivalTime": "2018-06-03T05:55:00.000"
+        },
+        {
+            "flnum": "LX3063",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "2",
+            "departureTime": "2018-06-02T16:00:00.000",
+            "arrivalTime": "2018-06-03T05:55:00.000"
+        },
+        {
+            "flnum": "SN9090",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "2",
+            "departureTime": "2018-06-02T16:00:00.000",
+            "arrivalTime": "2018-06-03T05:55:00.000"
+        },
+        {
+            "flnum": "AC5358",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "2",
+            "departureTime": "2018-06-02T16:00:00.000",
+            "arrivalTime": "2018-06-03T05:55:00.000"
+        },
+        {
+            "flnum": "UA938",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "2",
+            "departureTime": "2018-06-02T21:15:00.000",
+            "arrivalTime": "2018-06-03T11:20:00.000"
+        },
+        {
+            "flnum": "OS7854",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "2",
+            "departureTime": "2018-06-02T21:15:00.000",
+            "arrivalTime": "2018-06-03T11:20:00.000"
+        },
+        {
+            "flnum": "LH9355",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "2",
+            "departureTime": "2018-06-02T21:15:00.000",
+            "arrivalTime": "2018-06-03T11:20:00.000"
+        },
+        {
+            "flnum": "LX3053",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "2",
+            "departureTime": "2018-06-02T21:15:00.000",
+            "arrivalTime": "2018-06-03T11:20:00.000"
+        },
+        {
+            "flnum": "SN9088",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "2",
+            "departureTime": "2018-06-02T21:15:00.000",
+            "arrivalTime": "2018-06-03T11:20:00.000"
+        },
+        {
+            "flnum": "AC5368",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "2",
+            "departureTime": "2018-06-02T21:15:00.000",
+            "arrivalTime": "2018-06-03T11:20:00.000"
+        },
+        {
+            "flnum": "BA294",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "5",
+            "arrivalTerminal": "5",
+            "departureTime": "2018-06-02T17:05:00.000",
+            "arrivalTime": "2018-06-03T06:50:00.000"
+        },
+        {
+            "flnum": "EI8994",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "5",
+            "arrivalTerminal": "5",
+            "departureTime": "2018-06-02T17:05:00.000",
+            "arrivalTime": "2018-06-03T06:50:00.000"
+        },
+        {
+            "flnum": "IB4674",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "5",
+            "arrivalTerminal": "5",
+            "departureTime": "2018-06-02T17:05:00.000",
+            "arrivalTime": "2018-06-03T06:50:00.000"
+        },
+        {
+            "flnum": "AA6194",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "5",
+            "arrivalTerminal": "5",
+            "departureTime": "2018-06-02T17:05:00.000",
+            "arrivalTime": "2018-06-03T06:50:00.000"
+        },
+        {
+            "flnum": "AY5534",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "5",
+            "arrivalTerminal": "5",
+            "departureTime": "2018-06-02T17:05:00.000",
+            "arrivalTime": "2018-06-03T06:50:00.000"
+        },
+        {
+            "flnum": "AA86",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T17:00:00.000",
+            "arrivalTime": "2018-06-03T06:50:00.000"
+        },
+        {
+            "flnum": "MH9347",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T17:00:00.000",
+            "arrivalTime": "2018-06-03T06:50:00.000"
+        },
+        {
+            "flnum": "BA1543",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T17:00:00.000",
+            "arrivalTime": "2018-06-03T06:50:00.000"
+        },
+        {
+            "flnum": "IB4208",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T17:00:00.000",
+            "arrivalTime": "2018-06-03T06:50:00.000"
+        },
+        {
+            "flnum": "AY5760",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T17:00:00.000",
+            "arrivalTime": "2018-06-03T06:50:00.000"
+        },
+        {
+            "flnum": "GF6686",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T17:00:00.000",
+            "arrivalTime": "2018-06-03T06:50:00.000"
+        },
+        {
+            "flnum": "LY8045",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T17:00:00.000",
+            "arrivalTime": "2018-06-03T06:50:00.000"
+        },
+        {
+            "flnum": "AA46",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T19:10:00.000",
+            "arrivalTime": "2018-06-03T09:05:00.000"
+        },
+        {
+            "flnum": "GF6886",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T19:10:00.000",
+            "arrivalTime": "2018-06-03T09:05:00.000"
+        },
+        {
+            "flnum": "BA1518",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T19:10:00.000",
+            "arrivalTime": "2018-06-03T09:05:00.000"
+        },
+        {
+            "flnum": "AY5788",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T19:10:00.000",
+            "arrivalTime": "2018-06-03T09:05:00.000"
+        },
+        {
+            "flnum": "LY8024",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T19:10:00.000",
+            "arrivalTime": "2018-06-03T09:05:00.000"
+        },
+        {
+            "flnum": "BA296",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "5",
+            "arrivalTerminal": "5",
+            "departureTime": "2018-06-02T20:55:00.000",
+            "arrivalTime": "2018-06-03T10:40:00.000"
+        },
+        {
+            "flnum": "IB4676",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "5",
+            "arrivalTerminal": "5",
+            "departureTime": "2018-06-02T20:55:00.000",
+            "arrivalTime": "2018-06-03T10:40:00.000"
+        },
+        {
+            "flnum": "AA6196",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "5",
+            "arrivalTerminal": "5",
+            "departureTime": "2018-06-02T20:55:00.000",
+            "arrivalTime": "2018-06-03T10:40:00.000"
+        },
+        {
+            "flnum": "AY5536",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "5",
+            "arrivalTerminal": "5",
+            "departureTime": "2018-06-02T20:55:00.000",
+            "arrivalTime": "2018-06-03T10:40:00.000"
+        },
+        {
+            "flnum": "EI8996",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "5",
+            "arrivalTerminal": "5",
+            "departureTime": "2018-06-02T20:55:00.000",
+            "arrivalTime": "2018-06-03T10:40:00.000"
+        },
+        {
+            "flnum": "IB4188",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "LHR",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T19:10:00.000",
+            "arrivalTime": "2018-06-03T09:05:00.000"
+        }
+    ],
+    "Chicago,Tokyo,06,02,2018,": [
+        {
+            "flnum": "NH111",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "HND",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "I",
+            "departureTime": "2018-06-02T17:25:00.000",
+            "arrivalTime": "2018-06-03T20:30:00.000"
+        },
+        {
+            "flnum": "TG6177",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "HND",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "I",
+            "departureTime": "2018-06-02T17:25:00.000",
+            "arrivalTime": "2018-06-03T20:30:00.000"
+        },
+        {
+            "flnum": "UA7911",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "HND",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "I",
+            "departureTime": "2018-06-02T17:25:00.000",
+            "arrivalTime": "2018-06-03T20:30:00.000"
+        },
+        {
+            "flnum": "SQ5911",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "HND",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "I",
+            "departureTime": "2018-06-02T17:25:00.000",
+            "arrivalTime": "2018-06-03T20:30:00.000"
+        },
+        {
+            "flnum": "UA881",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "NRT",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-02T12:45:00.000",
+            "arrivalTime": "2018-06-03T15:55:00.000"
+        },
+        {
+            "flnum": "NH7009",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "NRT",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-02T12:45:00.000",
+            "arrivalTime": "2018-06-03T15:55:00.000"
+        },
+        {
+            "flnum": "NH11",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "NRT",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-02T11:20:00.000",
+            "arrivalTime": "2018-06-03T14:20:00.000"
+        },
+        {
+            "flnum": "UA7938",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "NRT",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-02T11:20:00.000",
+            "arrivalTime": "2018-06-03T14:20:00.000"
+        },
+        {
+            "flnum": "TG6089",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "NRT",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-02T11:20:00.000",
+            "arrivalTime": "2018-06-03T14:20:00.000"
+        },
+        {
+            "flnum": "JL9",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "NRT",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "2",
+            "departureTime": "2018-06-02T12:40:00.000",
+            "arrivalTime": "2018-06-03T15:35:00.000"
+        },
+        {
+            "flnum": "AA8404",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "NRT",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "2",
+            "departureTime": "2018-06-02T12:40:00.000",
+            "arrivalTime": "2018-06-03T15:35:00.000"
+        },
+        {
+            "flnum": "MH9109",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "NRT",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "2",
+            "departureTime": "2018-06-02T12:40:00.000",
+            "arrivalTime": "2018-06-03T15:35:00.000"
+        },
+        {
+            "flnum": "AA153",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "NRT",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "2",
+            "departureTime": "2018-06-02T13:00:00.000",
+            "arrivalTime": "2018-06-03T15:55:00.000"
+        },
+        {
+            "flnum": "JL7009",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "NRT",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "2",
+            "departureTime": "2018-06-02T13:00:00.000",
+            "arrivalTime": "2018-06-03T15:55:00.000"
+        }
+    ],
+    "Chicago,Florence,06,02,2018,": [],
+    "Chicago,Cancun,06,02,2018,": [
+        {
+            "flnum": "UA1659",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "CUN",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T10:45:00.000",
+            "arrivalTime": "2018-06-02T14:25:00.000"
+        },
+        {
+            "flnum": "NK104",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "CUN",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T07:00:00.000",
+            "arrivalTime": "2018-06-02T10:25:00.000"
+        },
+        {
+            "flnum": "UA1198",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "CUN",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T09:10:00.000",
+            "arrivalTime": "2018-06-02T12:50:00.000"
+        },
+        {
+            "flnum": "UA1656",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "CUN",
+            "stops": 0,
+            "departureTerminal": "1",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T07:50:00.000",
+            "arrivalTime": "2018-06-02T11:30:00.000"
+        },
+        {
+            "flnum": "F944",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "CUN",
+            "stops": 0,
+            "departureTerminal": "5",
+            "arrivalTerminal": "4",
+            "departureTime": "2018-06-02T08:25:00.000",
+            "arrivalTime": "2018-06-02T12:06:00.000"
+        },
+        {
+            "flnum": "AA1417",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "CUN",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T08:30:00.000",
+            "arrivalTime": "2018-06-02T12:05:00.000"
+        },
+        {
+            "flnum": "AA1503",
+            "departureAirportFsCode": "ORD",
+            "arrivalAirportFsCode": "CUN",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "3",
+            "departureTime": "2018-06-02T10:00:00.000",
+            "arrivalTime": "2018-06-02T13:40:00.000"
+        }
+    ],
+    "Beijing,Paris,06,02,2018,": [
+        {
+            "flnum": "AF381",
+            "departureAirportFsCode": "PEK",
+            "arrivalAirportFsCode": "CDG",
+            "stops": 0,
+            "departureTerminal": "2",
+            "arrivalTerminal": "2E",
+            "departureTime": "2018-06-02T01:00:00.000",
+            "arrivalTime": "2018-06-02T05:55:00.000"
+        },
+        {
+            "flnum": "KL2162",
+            "departureAirportFsCode": "PEK",
+            "arrivalAirportFsCode": "CDG",
+            "stops": 0,
+            "departureTerminal": "2",
+            "arrivalTerminal": "2E",
+            "departureTime": "2018-06-02T01:00:00.000",
+            "arrivalTime": "2018-06-02T05:55:00.000"
+        },
+        {
+            "flnum": "MU8665",
+            "departureAirportFsCode": "PEK",
+            "arrivalAirportFsCode": "CDG",
+            "stops": 0,
+            "departureTerminal": "2",
+            "arrivalTerminal": "2E",
+            "departureTime": "2018-06-02T01:00:00.000",
+            "arrivalTime": "2018-06-02T05:55:00.000"
+        },
+        {
+            "flnum": "CA933",
+            "departureAirportFsCode": "PEK",
+            "arrivalAirportFsCode": "CDG",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-02T13:35:00.000",
+            "arrivalTime": "2018-06-02T18:40:00.000"
+        },
+        {
+            "flnum": "LA8775",
+            "departureAirportFsCode": "PEK",
+            "arrivalAirportFsCode": "CDG",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-02T13:35:00.000",
+            "arrivalTime": "2018-06-02T18:40:00.000"
+        },
+        {
+            "flnum": "JJ8449",
+            "departureAirportFsCode": "PEK",
+            "arrivalAirportFsCode": "CDG",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-02T13:35:00.000",
+            "arrivalTime": "2018-06-02T18:40:00.000"
+        },
+        {
+            "flnum": "CA875",
+            "departureAirportFsCode": "PEK",
+            "arrivalAirportFsCode": "CDG",
+            "stops": 0,
+            "departureTerminal": "3",
+            "arrivalTerminal": "1",
+            "departureTime": "2018-06-02T02:05:00.000",
+            "arrivalTime": "2018-06-02T07:05:00.000"
+        },
+        {
+            "flnum": "AF125",
+            "departureAirportFsCode": "PEK",
+            "arrivalAirportFsCode": "CDG",
+            "stops": 0,
+            "departureTerminal": "2",
+            "arrivalTerminal": "2E",
+            "departureTime": "2018-06-02T09:05:00.000",
+            "arrivalTime": "2018-06-02T14:00:00.000"
+        },
+        {
+            "flnum": "KL2236",
+            "departureAirportFsCode": "PEK",
+            "arrivalAirportFsCode": "CDG",
+            "stops": 0,
+            "departureTerminal": "2",
+            "arrivalTerminal": "2E",
+            "departureTime": "2018-06-02T09:05:00.000",
+            "arrivalTime": "2018-06-02T14:00:00.000"
+        },
+        {
+            "flnum": "MU8667",
+            "departureAirportFsCode": "PEK",
+            "arrivalAirportFsCode": "CDG",
+            "stops": 0,
+            "departureTerminal": "2",
+            "arrivalTerminal": "2E",
+            "departureTime": "2018-06-02T09:05:00.000",
+            "arrivalTime": "2018-06-02T14:00:00.000"
+        }
+    ]
+}

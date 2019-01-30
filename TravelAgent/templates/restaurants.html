@@ -1,0 +1,29 @@
+<h1>Restaurants in {{des}}</h1>
+
+{% if restlist|length !=0 %}
+    <form action="/restaurants" method="POST">
+        Sort By:<br/>
+        <input type="radio" name="sortorder" value="DESC"/>Rating: High to Low<br/>
+        <input type="radio" name="sortorder" value="ASC"/>Rating: Low to High<br/>
+        <input type="submit" name="update" value="Update"/>
+    </form>
+    <table border=1>
+        <tr>
+            <td>Name</td>
+            <td>Rating</td>
+            <td>address</td>
+            <td width="10%">Phone</td>
+            <td>Yelp page</td>
+        </tr>
+        {% for i in restlist %}
+        <tr>
+            {% for j in i %}
+
+            <td>{{j}}</td>
+            {% endfor %}
+        </tr>
+        {% endfor %}
+    </table>
+{% else %}
+    <h2>No data of restaurants in {{des}}<h2>
+{% endif %}
